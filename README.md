@@ -105,12 +105,14 @@ endmodule
 
 **HALF ADDER**
 
-![WhatsApp Image 2024-12-23 at 20 33 54_7e518d1f](https://github.com/user-attachments/assets/086df935-eae3-46ce-bf30-749ccf6499ff)
+![WhatsApp Image 2024-12-27 at 13 59 08_3ea287e0](https://github.com/user-attachments/assets/d01131df-6eef-449d-bd64-57c065311ebb)
+
 
 
 **HALF SUBTRACTOR**
 
-![WhatsApp Image 2024-12-23 at 20 33 12_70c285ab](https://github.com/user-attachments/assets/96fbf29d-48a9-4109-b7a2-e19a524c11fc)
+![WhatsApp Image 2024-12-27 at 13 59 09_2178d85b](https://github.com/user-attachments/assets/1ad1202d-6e1d-4575-9cf6-6f086421eeb7)
+
 
 
 
